@@ -2,7 +2,7 @@
 This is a decentralized Netflix Clone where movie assets are stored on IPFS. Authentication to the dApp is handled through the user’s crypto wallet address, facilitated by the Moralis Web3 Development Platform.
 Check out [LIVE DEMO here!]( https://twitter-clone-kyerstin.herokuapp.com/ )
 
-https://user-images.githubusercontent.com/80643320/161328853-28086813-36e5-4711-83f1-44be068c3463.mp4 
+
 
 ## Technologies Used:
 * HTML
